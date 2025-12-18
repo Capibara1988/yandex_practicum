@@ -17,9 +17,7 @@
 This repository for my pet project
 В рамках выполнения дипломного проекта:
   - разрабатывал DFD, ER - диаграммы;
-  -  составлял карту пользовательских историй
+  -  составлял карту пользовательских историй, ссылка на карту https://miro.com/app/board/uXjVJXEW5eQ=/?share_link_id=410045217295
   -  составлял ПМИ
-  -  рисовал из блоков прототип в figma
-Ссылка на артефакты: https://drive.google.com/drive/folders/1n0HUhZkZ7V2JJ_bWrT7vww6frGUdtJEy?usp=sharing
-Дополнительно прошел вводный курс по архитектуре и программным интерфейсам, ссылка на выполненные работы:
-https://drive.google.com/drive/folders/1M0tzuLUth4cNLX6h6CFnk8NySo58M1lP?usp=sharing
+  -  рисовал из блоков прототип в figma, ссылка на прототип https://www.figma.com/design/1BEup5YvKFXQDVV3xQwFRV/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--%D0%A1%D1%8B%D1%81%D0%BE%D0%B5%D0%B2-?node-id=4-581&t=jo4FbNDDqbOvBypz-1
+
